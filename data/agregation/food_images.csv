@@ -1,0 +1,321 @@
+participant_id,image_path,detected_foods,estimated_calories
+p01,data/raw/p01/food-images/IMG_8916.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8917.jpeg,"['chocolate', 'egg']",655
+p01,data/raw/p01/food-images/IMG_8918.jpeg,['orange'],47
+p01,data/raw/p01/food-images/IMG_8920.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_8921.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8922.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8923.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_8927.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8928.jpeg,"['cheeseburger', 'cheese', 'hotdog']",960
+p01,data/raw/p01/food-images/IMG_8929.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8957.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_8958.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_8959.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8960.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8961.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8962.jpeg,"['apple', 'banana']",141
+p01,data/raw/p01/food-images/IMG_8963.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8964.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8965.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8966.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_8967.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_8968.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8969.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8970.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8972.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_8973.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8975.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8977.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_8980.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_8981.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8982.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_8983.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_8984.jpeg,"['spaghetti', 'banana']",309
+p01,data/raw/p01/food-images/IMG_8985.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8986.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_8996.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8998.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_8999.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9001.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9002.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9003.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9005.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9006.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9007.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9008.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9009.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9010.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9011.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9012.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9013.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9014.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9015.jpeg,"['chocolate', 'banana']",589
+p01,data/raw/p01/food-images/IMG_9020.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9021.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9022.jpeg,"['banana', 'egg']",244
+p01,data/raw/p01/food-images/IMG_9023.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9024.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9025.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9026.jpeg,['apple'],52
+p01,data/raw/p01/food-images/IMG_9028.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9029.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9030.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9032.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9033.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9034.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9035.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9036.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9037.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9038.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9039.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9040.jpeg,['spaghetti'],220
+p01,data/raw/p01/food-images/IMG_9041.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9042.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9043.jpeg,['egg'],155
+p01,data/raw/p01/food-images/IMG_9044.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9046.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9047.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9048.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9049.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9050.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9051.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9052.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9053.jpeg,"['spaghetti', 'banana']",309
+p01,data/raw/p01/food-images/IMG_9054.jpeg,['egg'],155
+p01,data/raw/p01/food-images/IMG_9057.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9058.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9059.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9060.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9061.jpeg,['strawberry'],32
+p01,data/raw/p01/food-images/IMG_9062.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9063.jpeg,['egg'],155
+p01,data/raw/p01/food-images/IMG_9064.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9065.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9066.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9067.jpeg,"['spaghetti', 'banana']",309
+p01,data/raw/p01/food-images/IMG_9068.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9069.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9072.jpeg,"['cheeseburger', 'cheese', 'hotdog']",960
+p01,data/raw/p01/food-images/IMG_9073.jpeg,"['cheeseburger', 'cheese', 'hotdog']",960
+p01,data/raw/p01/food-images/IMG_9074.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9075.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9078.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9082.jpeg,"['spaghetti', 'orange']",267
+p01,data/raw/p01/food-images/IMG_9083.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9084.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9085.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9088.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9089.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9091.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9092.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9093.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9094.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9096.jpeg,['egg'],155
+p01,data/raw/p01/food-images/IMG_9098.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9099.jpeg,"['pizza', 'hotdog']",540
+p01,data/raw/p01/food-images/IMG_9101.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9102.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9104.jpeg,['egg'],155
+p01,data/raw/p01/food-images/IMG_9106.jpeg,"['cheeseburger', 'cheese', 'hotdog']",960
+p01,data/raw/p01/food-images/IMG_9107.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9108.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9109.jpeg,['spaghetti'],220
+p01,data/raw/p01/food-images/IMG_9110.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9112.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9116.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9117.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9118.jpeg,['orange'],47
+p01,data/raw/p01/food-images/IMG_9119.jpeg,"['banana', 'spaghetti', 'orange']",356
+p01,data/raw/p01/food-images/IMG_9120.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9121.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9122.jpeg,['fish'],180
+p01,data/raw/p01/food-images/IMG_9154.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9155.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9156.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9157.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9158.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9159.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9160.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9161.jpeg,"['banana', 'orange']",136
+p01,data/raw/p01/food-images/IMG_9163.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9164.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9165.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9168.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9171.jpeg,['apple'],52
+p01,data/raw/p01/food-images/IMG_9178.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9180.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9186.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9187.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9188.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9199.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9200.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9201.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9202.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9203.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9204.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9205.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9206.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9207.jpeg,['orange'],47
+p01,data/raw/p01/food-images/IMG_9208.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9209.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9210.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9211.jpeg,['egg'],155
+p01,data/raw/p01/food-images/IMG_9212.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9214.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9215.jpeg,['fish'],180
+p01,data/raw/p01/food-images/IMG_9216.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9217.jpeg,"['cheeseburger', 'cheese', 'hotdog']",960
+p01,data/raw/p01/food-images/IMG_9220.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9223.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9224.jpeg,['egg'],155
+p01,data/raw/p01/food-images/IMG_9225.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9226.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9228.jpeg,"['spaghetti', 'hotdog']",480
+p01,data/raw/p01/food-images/IMG_9229.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9230.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9231.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9232.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9233.jpeg,"['cheeseburger', 'cheese']",700
+p01,data/raw/p01/food-images/IMG_9234.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9236.jpeg,"['pizza', 'cheeseburger', 'cheese', 'hotdog']",1240
+p01,data/raw/p01/food-images/IMG_9238.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9240.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9241.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9242.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9243.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9244.jpeg,['orange'],47
+p01,data/raw/p01/food-images/IMG_9251.jpeg,['fish'],180
+p01,data/raw/p01/food-images/IMG_9252.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9253.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9254.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9255.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9257.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9258.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9259.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9260.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9261.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9262.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9263.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9264.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9265.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9266.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9268.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9269.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9270.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9271.jpeg,['orange'],47
+p01,data/raw/p01/food-images/IMG_9273.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9274.jpeg,"['banana', 'orange']",136
+p01,data/raw/p01/food-images/IMG_9275.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9278.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9280.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9281.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9282.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9283.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9285.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9286.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9287.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9288.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9290.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9291.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9292.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9293.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9294.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9295.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9296.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9297.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9298.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9299.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9300.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9301.jpeg,"['spaghetti', 'banana']",309
+p01,data/raw/p01/food-images/IMG_9302.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9303.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9304.jpeg,"['banana', 'orange']",136
+p01,data/raw/p01/food-images/IMG_9305.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9307.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9308.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9309.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9310.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9311.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9313.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9314.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9315.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9316.jpeg,"['banana', 'orange']",136
+p01,data/raw/p01/food-images/IMG_9317.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9318.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9321.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9322.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9323.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9324.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9325.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9326.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9327.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9328.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9329.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9330.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9331.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9332.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9333.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9336.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9337.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9339.jpeg,"['spaghetti', 'banana']",309
+p01,data/raw/p01/food-images/IMG_9340.jpeg,"['chocolate', 'pizza']",780
+p01,data/raw/p01/food-images/IMG_9342.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9343.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9344.jpeg,"['spaghetti', 'banana']",309
+p01,data/raw/p01/food-images/IMG_9345.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9346.jpeg,['strawberry'],32
+p01,data/raw/p01/food-images/IMG_9347.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9350.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9351.jpeg,"['strawberry', 'banana', 'egg']",276
+p01,data/raw/p01/food-images/IMG_9354.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9355.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9356.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9358.jpeg,['hotdog'],260
+p01,data/raw/p01/food-images/IMG_9360.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9361.jpeg,"['banana', 'orange']",136
+p01,data/raw/p01/food-images/IMG_9362.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9363.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9364.jpeg,"['chocolate', 'egg']",655
+p01,data/raw/p01/food-images/IMG_9366.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9367.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9368.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9371.jpeg,"['banana', 'orange']",136
+p01,data/raw/p01/food-images/IMG_9372.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9373.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9374.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9375.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9376.jpeg,"['pizza', 'hotdog']",540
+p01,data/raw/p01/food-images/IMG_9379.jpeg,"['chocolate', 'pizza']",780
+p01,data/raw/p01/food-images/IMG_9380.jpeg,['spaghetti'],220
+p01,data/raw/p01/food-images/IMG_9381.jpeg,"['banana', 'orange']",136
+p01,data/raw/p01/food-images/IMG_9382.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9383.jpeg,['strawberry'],32
+p01,data/raw/p01/food-images/IMG_9385.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9386.jpeg,"['strawberry', 'pizza', 'orange']",359
+p01,data/raw/p01/food-images/IMG_9387.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9388.jpeg,"['cheeseburger', 'cheese']",700
+p01,data/raw/p01/food-images/IMG_9389.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9390.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9394.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9395.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9396.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9397.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9398.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9399.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9400.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9401.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9403.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9404.jpeg,['spaghetti'],220
+p01,data/raw/p01/food-images/IMG_9405.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9406.jpeg,['pizza'],280
+p01,data/raw/p01/food-images/IMG_9407.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9408.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9409.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9410.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9411.jpeg,['banana'],89
+p01,data/raw/p01/food-images/IMG_9412.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9413.jpeg,[],0
+p01,data/raw/p01/food-images/IMG_9414.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9415.jpeg,['chocolate'],500
+p01,data/raw/p01/food-images/IMG_9462.jpeg,['hotdog'],260
