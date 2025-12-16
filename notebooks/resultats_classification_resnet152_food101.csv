@@ -1,0 +1,322 @@
+Chemin_Fichier,Date_Heure_Prise,Classe_Predite,Score_Confiance,Statut
+../data/raw/p01/food-images/IMG_8916.jpeg,2025-12-14 09:23:08.304783821,macarons,12.93%,OK
+../data/raw/p01/food-images/IMG_8917.jpeg,2025-12-14 09:23:06.982498407,pancakes,22.30%,OK
+../data/raw/p01/food-images/IMG_8918.jpeg,2025-12-14 09:23:12.486400604,macarons,9.48%,OK
+../data/raw/p01/food-images/IMG_8920.jpeg,2025-12-14 09:23:07.647373676,pizza,21.25%,OK
+../data/raw/p01/food-images/IMG_8921.jpeg,2025-12-14 09:23:07.579516649,mussels,19.73%,OK
+../data/raw/p01/food-images/IMG_8922.jpeg,2025-12-14 09:23:12.719058752,ice cream,16.22%,OK
+../data/raw/p01/food-images/IMG_8923.jpeg,2025-12-14 09:23:12.088029861,onion rings,51.92%,OK
+../data/raw/p01/food-images/IMG_8927.jpeg,2025-12-14 09:23:08.853007317,cheese plate,17.65%,OK
+../data/raw/p01/food-images/IMG_8928.jpeg,2025-12-14 09:23:11.340592384,omelette,16.02%,OK
+../data/raw/p01/food-images/IMG_8929.jpeg,2025-12-14 09:23:10.425757647,escargots,6.81%,OK
+../data/raw/p01/food-images/IMG_8957.jpeg,2025-12-14 09:23:08.424819708,apple pie,12.50%,OK
+../data/raw/p01/food-images/IMG_8958.jpeg,2025-12-14 09:23:12.358980894,baklava,36.36%,OK
+../data/raw/p01/food-images/IMG_8959.jpeg,2025-12-14 09:23:12.381673098,risotto,11.76%,OK
+../data/raw/p01/food-images/IMG_8960.jpeg,2025-12-14 09:23:07.428586960,macarons,11.08%,OK
+../data/raw/p01/food-images/IMG_8961.jpeg,2025-12-14 09:23:07.793398619,macarons,8.97%,OK
+../data/raw/p01/food-images/IMG_8962.jpeg,2025-12-14 09:23:12.188550949,spring rolls,40.91%,OK
+../data/raw/p01/food-images/IMG_8963.jpeg,2025-12-14 09:23:12.598414421,ceviche,19.99%,OK
+../data/raw/p01/food-images/IMG_8964.jpeg,2025-12-14 09:23:10.303926706,ceviche,17.00%,OK
+../data/raw/p01/food-images/IMG_8965.jpeg,2025-12-14 09:23:11.553920031,french fries,11.24%,OK
+../data/raw/p01/food-images/IMG_8966.jpeg,2025-12-14 09:23:08.705190897,pizza,44.07%,OK
+../data/raw/p01/food-images/IMG_8967.jpeg,2025-12-14 09:23:09.934113503,carrot cake,18.60%,OK
+../data/raw/p01/food-images/IMG_8968.jpeg,2025-12-14 09:23:10.609704733,ice cream,12.15%,OK
+../data/raw/p01/food-images/IMG_8969.jpeg,2025-12-14 09:23:11.230288029,tiramisu,13.47%,OK
+../data/raw/p01/food-images/IMG_8970.jpeg,2025-12-14 09:23:08.789362431,macarons,9.92%,OK
+../data/raw/p01/food-images/IMG_8972.jpeg,2025-12-14 09:23:10.213580608,macarons,19.09%,OK
+../data/raw/p01/food-images/IMG_8973.jpeg,2025-12-14 09:23:11.589076281,chocolate mousse,8.59%,OK
+../data/raw/p01/food-images/IMG_8975.jpeg,2025-12-14 09:23:12.650075674,miso soup,19.03%,OK
+../data/raw/p01/food-images/IMG_8977.jpeg,2025-12-14 09:23:07.712374210,ice cream,13.63%,OK
+../data/raw/p01/food-images/IMG_8980.jpeg,2025-12-14 09:23:13.018848419,tiramisu,20.85%,OK
+../data/raw/p01/food-images/IMG_8981.jpeg,2025-12-14 09:23:11.771279335,waffles,14.74%,OK
+../data/raw/p01/food-images/IMG_8982.jpeg,2025-12-14 09:23:08.107976198,cheese plate,10.91%,OK
+../data/raw/p01/food-images/IMG_8983.jpeg,2025-12-14 09:23:07.150130272,gyoza,8.93%,OK
+../data/raw/p01/food-images/IMG_8984.jpeg,2025-12-14 09:23:09.523534536,miso soup,29.37%,OK
+../data/raw/p01/food-images/IMG_8985.jpeg,2025-12-14 09:23:09.207288027,guacamole,12.19%,OK
+../data/raw/p01/food-images/IMG_8986.jpeg,2025-12-14 09:23:11.194992304,churros,31.05%,OK
+../data/raw/p01/food-images/IMG_8996.jpeg,2025-12-14 09:23:13.125330925,shrimp and grits,18.67%,OK
+../data/raw/p01/food-images/IMG_8998.jpeg,2025-12-14 09:23:07.731373549,paella,36.55%,OK
+../data/raw/p01/food-images/IMG_8999.jpeg,2025-12-14 09:23:07.485824585,panna cotta,15.31%,OK
+../data/raw/p01/food-images/IMG_9001.jpeg,2025-12-14 09:23:11.721108198,ice cream,22.91%,OK
+../data/raw/p01/food-images/IMG_9002.jpeg,2025-12-14 09:23:08.028189898,ice cream,17.73%,OK
+../data/raw/p01/food-images/IMG_9003.jpeg,2025-12-14 09:23:07.219359159,macarons,9.89%,OK
+../data/raw/p01/food-images/IMG_9005.jpeg,2025-12-14 09:23:09.296362400,panna cotta,10.57%,OK
+../data/raw/p01/food-images/IMG_9006.jpeg,2025-12-14 09:23:11.300385475,tuna tartare,17.19%,OK
+../data/raw/p01/food-images/IMG_9007.jpeg,2025-12-14 09:23:10.449002743,cheese plate,13.75%,OK
+../data/raw/p01/food-images/IMG_9008.jpeg,2025-12-14 09:23:09.791423798,fried calamari,23.38%,OK
+../data/raw/p01/food-images/IMG_9009.jpeg,2025-12-14 09:23:08.867019415,chocolate mousse,14.04%,OK
+../data/raw/p01/food-images/IMG_9010.jpeg,2025-12-14 09:23:11.090876818,strawberry shortcake,41.04%,OK
+../data/raw/p01/food-images/IMG_9011.jpeg,2025-12-14 09:23:10.688411236,paella,14.31%,OK
+../data/raw/p01/food-images/IMG_9012.jpeg,2025-12-14 09:23:09.576360941,chocolate mousse,21.66%,OK
+../data/raw/p01/food-images/IMG_9013.jpeg,2025-12-14 09:23:09.056286812,french fries,8.06%,OK
+../data/raw/p01/food-images/IMG_9014.jpeg,2025-12-14 09:23:08.219980478,churros,23.66%,OK
+../data/raw/p01/food-images/IMG_9015.jpeg,2025-12-14 09:23:07.057509422,foie gras,6.69%,OK
+../data/raw/p01/food-images/IMG_9020.jpeg,2025-12-14 09:23:12.443474054,mussels,7.83%,OK
+../data/raw/p01/food-images/IMG_9021.jpeg,2025-12-14 09:23:12.288473845,greek salad,16.84%,OK
+../data/raw/p01/food-images/IMG_9022.jpeg,2025-12-14 09:23:07.950910807,churros,19.48%,OK
+../data/raw/p01/food-images/IMG_9023.jpeg,2025-12-14 09:23:07.283088446,macarons,18.36%,OK
+../data/raw/p01/food-images/IMG_9024.jpeg,2025-12-14 09:23:10.118752241,panna cotta,32.12%,OK
+../data/raw/p01/food-images/IMG_9025.jpeg,2025-12-14 09:23:08.527649879,churros,13.36%,OK
+../data/raw/p01/food-images/IMG_9026.jpeg,2025-12-14 09:23:11.382707357,fried calamari,24.99%,OK
+../data/raw/p01/food-images/IMG_9028.jpeg,2025-12-14 09:23:09.752899885,panna cotta,24.48%,OK
+../data/raw/p01/food-images/IMG_9029.jpeg,2025-12-14 09:23:08.932482481,risotto,16.71%,OK
+../data/raw/p01/food-images/IMG_9030.jpeg,2025-12-14 09:23:11.416058779,panna cotta,20.17%,OK
+../data/raw/p01/food-images/IMG_9032.jpeg,2025-12-14 09:23:10.090742111,tacos,43.29%,OK
+../data/raw/p01/food-images/IMG_9033.jpeg,2025-12-14 09:23:08.560794830,samosa,8.89%,OK
+../data/raw/p01/food-images/IMG_9034.jpeg,2025-12-14 09:23:07.908767223,panna cotta,22.68%,OK
+../data/raw/p01/food-images/IMG_9035.jpeg,2025-12-14 09:23:07.316395521,cheese plate,11.22%,OK
+../data/raw/p01/food-images/IMG_9036.jpeg,2025-12-14 09:23:12.499412775,scallops,7.91%,OK
+../data/raw/p01/food-images/IMG_9037.jpeg,2025-12-14 09:23:12.264461993,beef tartare,9.03%,OK
+../data/raw/p01/food-images/IMG_9038.jpeg,2025-12-14 09:23:08.346794367,panna cotta,15.41%,OK
+../data/raw/p01/food-images/IMG_9039.jpeg,2025-12-14 09:23:06.942490816,panna cotta,20.81%,OK
+../data/raw/p01/food-images/IMG_9040.jpeg,2025-12-14 09:23:11.811471701,tuna tartare,17.57%,OK
+../data/raw/p01/food-images/IMG_9041.jpeg,2025-12-14 09:23:12.975752592,chocolate mousse,18.67%,OK
+../data/raw/p01/food-images/IMG_9042.jpeg,2025-12-14 09:23:07.088603497,cheese plate,8.90%,OK
+../data/raw/p01/food-images/IMG_9043.jpeg,2025-12-14 09:23:08.126979113,beef tartare,8.04%,OK
+../data/raw/p01/food-images/IMG_9044.jpeg,2025-12-14 09:23:09.116290092,cheese plate,12.91%,OK
+../data/raw/p01/food-images/IMG_9046.jpeg,2025-12-14 09:23:10.625024796,chocolate mousse,24.70%,OK
+../data/raw/p01/food-images/IMG_9047.jpeg,2025-12-14 09:23:11.177992821,pulled pork sandwich,9.01%,OK
+../data/raw/p01/food-images/IMG_9048.jpeg,2025-12-14 09:23:08.746191978,macaroni and cheese,17.52%,OK
+../data/raw/p01/food-images/IMG_9049.jpeg,2025-12-14 09:23:09.901637554,donuts,15.31%,OK
+../data/raw/p01/food-images/IMG_9050.jpeg,2025-12-14 09:23:10.518172264,cheese plate,12.01%,OK
+../data/raw/p01/food-images/IMG_9051.jpeg,2025-12-14 09:23:11.260432005,chocolate mousse,24.86%,OK
+../data/raw/p01/food-images/IMG_9052.jpeg,2025-12-14 09:23:09.232288599,ice cream,7.60%,OK
+../data/raw/p01/food-images/IMG_9053.jpeg,2025-12-14 09:23:09.433658600,panna cotta,13.99%,OK
+../data/raw/p01/food-images/IMG_9054.jpeg,2025-12-14 09:23:07.187352180,churros,14.65%,OK
+../data/raw/p01/food-images/IMG_9057.jpeg,2025-12-14 09:23:13.111331224,tacos,11.31%,OK
+../data/raw/p01/food-images/IMG_9058.jpeg,2025-12-14 09:23:07.527290106,filet mignon,15.68%,OK
+../data/raw/p01/food-images/IMG_9059.jpeg,2025-12-14 09:23:07.686372280,panna cotta,26.54%,OK
+../data/raw/p01/food-images/IMG_9060.jpeg,2025-12-14 09:23:12.249450207,club sandwich,29.11%,OK
+../data/raw/p01/food-images/IMG_9061.jpeg,2025-12-14 09:23:12.522856236,caprese salad,16.45%,OK
+../data/raw/p01/food-images/IMG_9062.jpeg,2025-12-14 09:23:07.330651045,caprese salad,13.71%,OK
+../data/raw/p01/food-images/IMG_9063.jpeg,2025-12-14 09:23:07.864156246,tuna tartare,16.35%,OK
+../data/raw/p01/food-images/IMG_9064.jpeg,2025-12-14 09:23:08.616194010,ice cream,17.37%,OK
+../data/raw/p01/food-images/IMG_9065.jpeg,2025-12-14 09:23:10.028879404,macarons,10.73%,OK
+../data/raw/p01/food-images/IMG_9066.jpeg,2025-12-14 09:23:10.364603996,panna cotta,23.41%,OK
+../data/raw/p01/food-images/IMG_9067.jpeg,2025-12-14 09:23:11.440646172,cheese plate,13.35%,OK
+../data/raw/p01/food-images/IMG_9068.jpeg,2025-12-14 09:23:09.006091595,panna cotta,12.54%,OK
+../data/raw/p01/food-images/IMG_9069.jpeg,2025-12-14 09:23:09.656358957,tiramisu,13.06%,OK
+../data/raw/p01/food-images/IMG_9072.jpeg,2025-12-14 09:23:08.484237432,hot dog,54.13%,OK
+../data/raw/p01/food-images/IMG_9073.jpeg,2025-12-14 09:23:10.130752325,cheese plate,26.60%,OK
+../data/raw/p01/food-images/IMG_9074.jpeg,2025-12-14 09:23:07.260583401,hot dog,9.60%,OK
+../data/raw/p01/food-images/IMG_9075.jpeg,2025-12-14 09:23:07.996191263,macarons,22.72%,OK
+../data/raw/p01/food-images/IMG_9078.jpeg,2025-12-14 09:23:06.880655766,donuts,10.26%,OK
+../data/raw/p01/food-images/IMG_9082.jpeg,2025-12-14 09:23:12.871245384,macarons,25.70%,OK
+../data/raw/p01/food-images/IMG_9083.jpeg,2025-12-14 09:23:11.906336069,steak,24.43%,OK
+../data/raw/p01/food-images/IMG_9084.jpeg,2025-12-14 09:23:11.016026019,chocolate mousse,19.19%,OK
+../data/raw/p01/food-images/IMG_9085.jpeg,2025-12-14 09:23:10.745053053,cup cakes,33.70%,OK
+../data/raw/p01/food-images/IMG_9088.jpeg,2025-12-14 09:23:11.482277393,hot dog,9.45%,OK
+../data/raw/p01/food-images/IMG_9089.jpeg,2025-12-14 09:23:10.388964891,panna cotta,13.25%,OK
+../data/raw/p01/food-images/IMG_9091.jpeg,2025-12-14 09:23:08.890481234,churros,61.21%,OK
+../data/raw/p01/food-images/IMG_9092.jpeg,2025-12-14 09:23:10.893269300,cheesecake,38.73%,OK
+../data/raw/p01/food-images/IMG_9093.jpeg,2025-12-14 09:23:10.869092703,club sandwich,9.18%,OK
+../data/raw/p01/food-images/IMG_9094.jpeg,2025-12-14 09:23:12.739578247,chocolate mousse,34.38%,OK
+../data/raw/p01/food-images/IMG_9096.jpeg,2025-12-14 09:23:08.462235689,ice cream,26.21%,OK
+../data/raw/p01/food-images/IMG_9098.jpeg,2025-12-14 09:23:12.403237104,chocolate mousse,25.82%,OK
+../data/raw/p01/food-images/IMG_9099.jpeg,2025-12-14 09:23:12.353551149,apple pie,8.89%,OK
+../data/raw/p01/food-images/IMG_9101.jpeg,2025-12-14 09:23:09.151287794,miso soup,26.15%,OK
+../data/raw/p01/food-images/IMG_9102.jpeg,2025-12-14 09:23:11.159991026,macarons,16.37%,OK
+../data/raw/p01/food-images/IMG_9104.jpeg,2025-12-14 09:23:12.952407598,cup cakes,53.04%,OK
+../data/raw/p01/food-images/IMG_9106.jpeg,2025-12-14 09:23:08.162977695,hot dog,91.63%,OK
+../data/raw/p01/food-images/IMG_9107.jpeg,2025-12-14 09:23:07.128764391,chocolate mousse,25.48%,OK
+../data/raw/p01/food-images/IMG_9108.jpeg,2025-12-14 09:23:12.614993334,beet salad,13.28%,OK
+../data/raw/p01/food-images/IMG_9109.jpeg,2025-12-14 09:23:12.151532650,deviled eggs,12.29%,OK
+../data/raw/p01/food-images/IMG_9110.jpeg,2025-12-14 09:23:08.066478014,hot dog,15.25%,OK
+../data/raw/p01/food-images/IMG_9111.png,2025-12-14 09:23:10.571592808,caesar salad,12.91%,OK
+../data/raw/p01/food-images/IMG_9112.jpeg,2025-12-14 09:23:13.071757317,donuts,17.18%,OK
+../data/raw/p01/food-images/IMG_9116.jpeg,2025-12-14 09:23:09.456017017,ice cream,14.08%,OK
+../data/raw/p01/food-images/IMG_9117.jpeg,2025-12-14 09:23:09.255285025,french fries,33.15%,OK
+../data/raw/p01/food-images/IMG_9118.jpeg,2025-12-14 09:23:11.620815277,french fries,92.74%,OK
+../data/raw/p01/food-images/IMG_9119.jpeg,2025-12-14 09:23:10.184582233,creme brulee,20.44%,OK
+../data/raw/p01/food-images/IMG_9120.jpeg,2025-12-14 09:23:10.004149914,apple pie,14.88%,OK
+../data/raw/p01/food-images/IMG_9121.jpeg,2025-12-14 09:23:08.599195719,ice cream,22.27%,OK
+../data/raw/p01/food-images/IMG_9122.jpeg,2025-12-14 09:23:11.461300611,cheese plate,13.13%,OK
+../data/raw/p01/food-images/IMG_9154.jpeg,2025-12-14 09:23:10.666023254,tiramisu,31.73%,OK
+../data/raw/p01/food-images/IMG_9155.jpeg,2025-12-14 09:23:11.074955463,pizza,34.18%,OK
+../data/raw/p01/food-images/IMG_9156.jpeg,2025-12-14 09:23:09.080287218,macarons,15.09%,OK
+../data/raw/p01/food-images/IMG_9157.jpeg,2025-12-14 09:23:09.590362787,macarons,8.70%,OK
+../data/raw/p01/food-images/IMG_9158.jpeg,2025-12-14 09:23:10.326602221,panna cotta,15.81%,OK
+../data/raw/p01/food-images/IMG_9159.jpeg,2025-12-14 09:23:11.521453857,falafel,23.17%,OK
+../data/raw/p01/food-images/IMG_9160.jpeg,2025-12-14 09:23:08.503237009,macarons,35.04%,OK
+../data/raw/p01/food-images/IMG_9161.jpeg,2025-12-14 09:23:10.102752686,lobster bisque,90.45%,OK
+../data/raw/p01/food-images/IMG_9163.jpeg,2025-12-14 09:23:11.397348404,prime rib,10.94%,OK
+../data/raw/p01/food-images/IMG_9164.jpeg,2025-12-14 09:23:12.309985399,chocolate mousse,14.69%,OK
+../data/raw/p01/food-images/IMG_9165.jpeg,2025-12-14 09:23:12.462528944,tuna tartare,7.35%,OK
+../data/raw/p01/food-images/IMG_9168.jpeg,2025-12-14 09:23:11.994670868,ice cream,18.62%,OK
+../data/raw/p01/food-images/IMG_9171.jpeg,2025-12-14 09:23:07.887330294,macarons,9.94%,OK
+../data/raw/p01/food-images/IMG_9178.jpeg,2025-12-14 09:23:10.795568228,ice cream,11.47%,OK
+../data/raw/p01/food-images/IMG_9180.jpeg,2025-12-14 09:23:10.956737995,spring rolls,8.02%,OK
+../data/raw/p01/food-images/IMG_9186.jpeg,2025-12-14 09:23:12.777065516,frozen yogurt,15.11%,OK
+../data/raw/p01/food-images/IMG_9187.jpeg,2025-12-14 09:23:11.975304604,frozen yogurt,21.29%,OK
+../data/raw/p01/food-images/IMG_9188.jpeg,2025-12-14 09:23:07.974912643,fried calamari,17.56%,OK
+../data/raw/p01/food-images/IMG_9199.jpeg,2025-12-14 09:23:08.545794964,spring rolls,29.59%,OK
+../data/raw/p01/food-images/IMG_9200.jpeg,2025-12-14 09:23:11.869118452,cheese plate,34.74%,OK
+../data/raw/p01/food-images/IMG_9201.jpeg,2025-12-14 09:23:12.894939899,ice cream,10.79%,OK
+../data/raw/p01/food-images/IMG_9202.jpeg,2025-12-14 09:23:07.041343451,pizza,51.85%,OK
+../data/raw/p01/food-images/IMG_9203.jpeg,2025-12-14 09:23:08.263255835,fried calamari,25.04%,OK
+../data/raw/p01/food-images/IMG_9204.jpeg,2025-12-14 09:23:09.036286592,edamame,38.80%,OK
+../data/raw/p01/food-images/IMG_9205.jpeg,2025-12-14 09:23:09.638359785,miso soup,33.67%,OK
+../data/raw/p01/food-images/IMG_9206.jpeg,2025-12-14 09:23:10.703415871,macarons,26.41%,OK
+../data/raw/p01/food-images/IMG_9207.jpeg,2025-12-14 09:23:11.036346674,macarons,13.39%,OK
+../data/raw/p01/food-images/IMG_9208.jpeg,2025-12-14 09:23:08.578199625,tacos,20.82%,OK
+../data/raw/p01/food-images/IMG_9209.jpeg,2025-12-14 09:23:10.050905943,fried calamari,18.09%,OK
+../data/raw/p01/food-images/IMG_9210.jpeg,2025-12-14 09:23:10.837572575,fried rice,16.01%,OK
+../data/raw/p01/food-images/IMG_9211.jpeg,2025-12-14 09:23:10.914264917,macarons,27.69%,OK
+../data/raw/p01/food-images/IMG_9212.jpeg,2025-12-14 09:23:08.907479525,foie gras,12.38%,OK
+../data/raw/p01/food-images/IMG_9214.jpeg,2025-12-14 09:23:06.913207769,macarons,12.96%,OK
+../data/raw/p01/food-images/IMG_9215.jpeg,2025-12-14 09:23:08.440824747,paella,9.28%,OK
+../data/raw/p01/food-images/IMG_9216.jpeg,2025-12-14 09:23:12.017687559,churros,7.48%,OK
+../data/raw/p01/food-images/IMG_9217.jpeg,2025-12-14 09:23:12.760582924,pancakes,49.50%,OK
+../data/raw/p01/food-images/IMG_9220.jpeg,2025-12-14 09:23:12.174531937,pizza,43.72%,OK
+../data/raw/p01/food-images/IMG_9223.jpeg,2025-12-14 09:23:07.748374462,foie gras,14.20%,OK
+../data/raw/p01/food-images/IMG_9224.jpeg,2025-12-14 09:23:08.679198503,cup cakes,12.69%,OK
+../data/raw/p01/food-images/IMG_9225.jpeg,2025-12-14 09:23:09.916111708,ice cream,8.02%,OK
+../data/raw/p01/food-images/IMG_9226.jpeg,2025-12-14 09:23:10.281056166,macarons,17.03%,OK
+../data/raw/p01/food-images/IMG_9228.jpeg,2025-12-14 09:23:09.183292150,greek salad,27.21%,OK
+../data/raw/p01/food-images/IMG_9229.jpeg,2025-12-14 09:23:09.502536058,edamame,10.65%,OK
+../data/raw/p01/food-images/IMG_9230.jpeg,2025-12-14 09:23:10.233583450,cup cakes,12.50%,OK
+../data/raw/p01/food-images/IMG_9231.jpeg,2025-12-14 09:23:11.606465578,ice cream,9.27%,OK
+../data/raw/p01/food-images/IMG_9232.jpeg,2025-12-14 09:23:08.812560797,churros,20.84%,OK
+../data/raw/p01/food-images/IMG_9233.jpeg,2025-12-14 09:23:09.865447044,tacos,12.40%,OK
+../data/raw/p01/food-images/IMG_9234.jpeg,2025-12-14 09:23:07.468823195,pizza,7.77%,OK
+../data/raw/p01/food-images/IMG_9236.jpeg,2025-12-14 09:23:12.127522229,cheese plate,56.28%,OK
+../data/raw/p01/food-images/IMG_9238.jpeg,2025-12-14 09:23:07.196360826,macarons,23.56%,OK
+../data/raw/p01/food-images/IMG_9240.jpeg,2025-12-14 09:23:12.800925493,caprese salad,7.17%,OK
+../data/raw/p01/food-images/IMG_9241.jpeg,2025-12-14 09:23:11.947899580,churros,44.79%,OK
+../data/raw/p01/food-images/IMG_9242.jpeg,2025-12-14 09:23:08.383796692,panna cotta,10.54%,OK
+../data/raw/p01/food-images/IMG_9243.jpeg,2025-12-14 09:23:06.928215265,gnocchi,31.66%,OK
+../data/raw/p01/food-images/IMG_9244.jpeg,2025-12-14 09:23:09.732343912,panna cotta,11.22%,OK
+../data/raw/p01/food-images/IMG_9251.jpeg,2025-12-14 09:23:10.764051914,ice cream,26.36%,OK
+../data/raw/p01/food-images/IMG_9252.jpeg,2025-12-14 09:23:09.697035789,ice cream,34.17%,OK
+../data/raw/p01/food-images/IMG_9253.jpeg,2025-12-14 09:23:08.983482838,ice cream,10.25%,OK
+../data/raw/p01/food-images/IMG_9254.jpeg,2025-12-14 09:23:08.323784113,panna cotta,22.46%,OK
+../data/raw/p01/food-images/IMG_9255.jpeg,2025-12-14 09:23:06.997676373,lobster bisque,17.04%,OK
+../data/raw/p01/food-images/IMG_9257.jpeg,2025-12-14 09:23:11.926896095,sushi,9.57%,OK
+../data/raw/p01/food-images/IMG_9258.jpeg,2025-12-14 09:23:07.926913023,carrot cake,14.14%,OK
+../data/raw/p01/food-images/IMG_9259.jpeg,2025-12-14 09:23:07.304603338,paella,14.05%,OK
+../data/raw/p01/food-images/IMG_9260.jpeg,2025-12-14 09:23:12.692049980,panna cotta,22.85%,OK
+../data/raw/p01/food-images/IMG_9261.jpeg,2025-12-14 09:23:12.059568405,carrot cake,21.55%,OK
+../data/raw/p01/food-images/IMG_9262.jpeg,2025-12-14 09:23:07.623893738,eggs benedict,17.57%,OK
+../data/raw/p01/food-images/IMG_9263.jpeg,2025-12-14 09:23:07.557301283,chocolate mousse,16.29%,OK
+../data/raw/p01/food-images/IMG_9264.jpeg,2025-12-14 09:23:09.814426661,mussels,82.33%,OK
+../data/raw/p01/food-images/IMG_9265.jpeg,2025-12-14 09:23:08.832569838,waffles,19.44%,OK
+../data/raw/p01/food-images/IMG_9266.jpeg,2025-12-14 09:23:11.654085875,macarons,27.36%,OK
+../data/raw/p01/food-images/IMG_9268.jpeg,2025-12-14 09:23:09.352099419,chicken curry,22.48%,OK
+../data/raw/p01/food-images/IMG_9269.jpeg,2025-12-14 09:23:09.316678286,macarons,22.22%,OK
+../data/raw/p01/food-images/IMG_9270.jpeg,2025-12-14 09:23:11.498284817,churros,12.10%,OK
+../data/raw/p01/food-images/IMG_9271.jpeg,2025-12-14 09:23:10.341607094,pancakes,21.67%,OK
+../data/raw/p01/food-images/IMG_9273.jpeg,2025-12-14 09:23:08.634199858,french toast,6.02%,OK
+../data/raw/p01/food-images/IMG_9274.jpeg,2025-12-14 09:23:07.828511000,creme brulee,21.80%,OK
+../data/raw/p01/food-images/IMG_9275.jpeg,2025-12-14 09:23:07.346971989,waffles,23.24%,OK
+../data/raw/p01/food-images/IMG_9278.jpeg,2025-12-14 09:23:08.175979376,tuna tartare,8.40%,OK
+../data/raw/p01/food-images/IMG_9280.jpeg,2025-12-14 09:23:07.238584757,spring rolls,28.70%,OK
+../data/raw/p01/food-images/IMG_9281.jpeg,2025-12-14 09:23:08.009190559,cheese plate,10.08%,OK
+../data/raw/p01/food-images/IMG_9282.jpeg,2025-12-14 09:23:11.678575754,chocolate cake,11.79%,OK
+../data/raw/p01/food-images/IMG_9283.jpeg,2025-12-14 09:23:13.148332119,ceviche,9.45%,OK
+../data/raw/p01/food-images/IMG_9285.jpeg,2025-12-14 09:23:11.317758799,panna cotta,35.53%,OK
+../data/raw/p01/food-images/IMG_9286.jpeg,2025-12-14 09:23:09.333677292,paella,21.34%,OK
+../data/raw/p01/food-images/IMG_9287.jpeg,2025-12-14 09:23:09.381107092,samosa,27.70%,OK
+../data/raw/p01/food-images/IMG_9288.jpeg,2025-12-14 09:23:10.171579599,macarons,16.19%,OK
+../data/raw/p01/food-images/IMG_9290.jpeg,2025-12-14 09:23:09.093287945,cheesecake,17.71%,OK
+../data/raw/p01/food-images/IMG_9291.jpeg,2025-12-14 09:23:09.556858540,french fries,16.01%,OK
+../data/raw/p01/food-images/IMG_9292.jpeg,2025-12-14 09:23:10.650025129,fried calamari,43.21%,OK
+../data/raw/p01/food-images/IMG_9293.jpeg,2025-12-14 09:23:11.142748594,dumplings,7.92%,OK
+../data/raw/p01/food-images/IMG_9294.jpeg,2025-12-14 09:23:11.852615118,ice cream,12.34%,OK
+../data/raw/p01/food-images/IMG_9295.jpeg,2025-12-14 09:23:12.927414417,cup cakes,15.64%,OK
+../data/raw/p01/food-images/IMG_9296.jpeg,2025-12-14 09:23:07.072602987,paella,10.02%,OK
+../data/raw/p01/food-images/IMG_9297.jpeg,2025-12-14 09:23:08.194979191,cheese plate,11.28%,OK
+../data/raw/p01/food-images/IMG_9298.jpeg,2025-12-14 09:23:12.203555346,ice cream,24.78%,OK
+../data/raw/p01/food-images/IMG_9299.jpeg,2025-12-14 09:23:12.537883997,foie gras,20.02%,OK
+../data/raw/p01/food-images/IMG_9300.jpeg,2025-12-14 09:23:08.951486349,chicken curry,16.53%,OK
+../data/raw/p01/food-images/IMG_9301.jpeg,2025-12-14 09:23:09.721064329,filet mignon,17.97%,OK
+../data/raw/p01/food-images/IMG_9302.jpeg,2025-12-14 09:23:10.816572189,macarons,12.81%,OK
+../data/raw/p01/food-images/IMG_9303.jpeg,2025-12-14 09:23:10.973969698,tacos,10.83%,OK
+../data/raw/p01/food-images/IMG_9304.jpeg,2025-12-14 09:23:11.961669207,pancakes,15.15%,OK
+../data/raw/p01/food-images/IMG_9305.jpeg,2025-12-14 09:23:12.825381994,ice cream,25.58%,OK
+../data/raw/p01/food-images/IMG_9307.jpeg,2025-12-14 09:23:08.365796804,panna cotta,18.39%,OK
+../data/raw/p01/food-images/IMG_9308.jpeg,2025-12-14 09:23:12.333553553,risotto,14.21%,OK
+../data/raw/p01/food-images/IMG_9309.jpeg,2025-12-14 09:23:12.423264503,chocolate mousse,29.67%,OK
+../data/raw/p01/food-images/IMG_9310.jpeg,2025-12-14 09:23:06.955492020,onion rings,30.59%,OK
+../data/raw/p01/food-images/IMG_9311.jpeg,2025-12-14 09:23:08.285264969,pulled pork sandwich,15.03%,OK
+../data/raw/p01/food-images/IMG_9313.jpeg,2025-12-14 09:23:12.847717524,churros,31.46%,OK
+../data/raw/p01/food-images/IMG_9314.jpeg,2025-12-14 09:23:10.777057886,ice cream,21.58%,OK
+../data/raw/p01/food-images/IMG_9315.jpeg,2025-12-14 09:23:10.998967171,chocolate mousse,42.22%,OK
+../data/raw/p01/food-images/IMG_9316.jpeg,2025-12-14 09:23:08.968481779,churros,9.92%,OK
+../data/raw/p01/food-images/IMG_9317.jpeg,2025-12-14 09:23:09.673723698,beignets,29.39%,OK
+../data/raw/p01/food-images/IMG_9318.jpeg,2025-12-14 09:23:10.410523653,ice cream,21.09%,OK
+../data/raw/p01/food-images/IMG_9321.jpeg,2025-12-14 09:23:09.831425190,chocolate mousse,24.68%,OK
+../data/raw/p01/food-images/IMG_9322.jpeg,2025-12-14 09:23:10.151750088,churros,20.16%,OK
+../data/raw/p01/food-images/IMG_9323.jpeg,2025-12-14 09:23:11.635039806,panna cotta,22.57%,OK
+../data/raw/p01/food-images/IMG_9324.jpeg,2025-12-14 09:23:12.035006285,tiramisu,23.60%,OK
+../data/raw/p01/food-images/IMG_9325.jpeg,2025-12-14 09:23:12.672042608,lobster roll sandwich,20.41%,OK
+../data/raw/p01/food-images/IMG_9326.jpeg,2025-12-14 09:23:07.602734566,ice cream,10.48%,OK
+../data/raw/p01/food-images/IMG_9327.jpeg,2025-12-14 09:23:07.663373709,cheese plate,9.83%,OK
+../data/raw/p01/food-images/IMG_9328.jpeg,2025-12-14 09:23:11.700875998,ice cream,43.01%,OK
+../data/raw/p01/food-images/IMG_9329.jpeg,2025-12-14 09:23:13.166550875,omelette,13.58%,OK
+../data/raw/p01/food-images/IMG_9330.jpeg,2025-12-14 09:23:07.384587049,macarons,30.22%,OK
+../data/raw/p01/food-images/IMG_9331.jpeg,2025-12-14 09:23:07.850939274,poutine,14.33%,OK
+../data/raw/p01/food-images/IMG_9332.jpeg,2025-12-14 09:23:12.227451086,churros,40.56%,OK
+../data/raw/p01/food-images/IMG_9333.jpeg,2025-12-14 09:23:12.562722445,ice cream,42.03%,OK
+../data/raw/p01/food-images/IMG_9336.jpeg,2025-12-14 09:23:08.657194614,pancakes,24.27%,OK
+../data/raw/p01/food-images/IMG_9337.jpeg,2025-12-14 09:23:09.979150057,chocolate mousse,24.38%,OK
+../data/raw/p01/food-images/IMG_9339.jpeg,2025-12-14 09:23:11.123749971,churros,14.89%,OK
+../data/raw/p01/food-images/IMG_9340.jpeg,2025-12-14 09:23:09.612361431,waffles,11.65%,OK
+../data/raw/p01/food-images/IMG_9342.jpeg,2025-12-14 09:23:11.055345297,fried rice,38.89%,OK
+../data/raw/p01/food-images/IMG_9343.jpeg,2025-12-14 09:23:10.727413654,ice cream,10.50%,OK
+../data/raw/p01/food-images/IMG_9344.jpeg,2025-12-14 09:23:12.908096552,macarons,15.47%,OK
+../data/raw/p01/food-images/IMG_9345.jpeg,2025-12-14 09:23:11.884330988,strawberry shortcake,26.32%,OK
+../data/raw/p01/food-images/IMG_9346.jpeg,2025-12-14 09:23:08.239259243,donuts,46.07%,OK
+../data/raw/p01/food-images/IMG_9347.jpeg,2025-12-14 09:23:07.016980648,waffles,25.56%,OK
+../data/raw/p01/food-images/IMG_9350.jpeg,2025-12-14 09:23:08.399797201,cheese plate,11.51%,OK
+../data/raw/p01/food-images/IMG_9351.jpeg,2025-12-14 09:23:06.894819975,cheesecake,13.70%,OK
+../data/raw/p01/food-images/IMG_9354.jpeg,2025-12-14 09:23:10.933266878,bibimbap,10.77%,OK
+../data/raw/p01/food-images/IMG_9355.jpeg,2025-12-14 09:23:10.849854469,chocolate mousse,19.56%,OK
+../data/raw/p01/food-images/IMG_9356.jpeg,2025-12-14 09:23:09.770901680,macarons,17.40%,OK
+../data/raw/p01/food-images/IMG_9358.jpeg,2025-12-14 09:23:11.356940508,apple pie,17.35%,OK
+../data/raw/p01/food-images/IMG_9360.jpeg,2025-12-14 09:23:09.954111338,miso soup,17.18%,OK
+../data/raw/p01/food-images/IMG_9361.jpeg,2025-12-14 09:23:08.722192764,macarons,24.54%,OK
+../data/raw/p01/food-images/IMG_9362.jpeg,2025-12-14 09:23:11.536586285,waffles,8.53%,OK
+../data/raw/p01/food-images/IMG_9363.jpeg,2025-12-14 09:23:10.258044481,panna cotta,25.64%,OK
+../data/raw/p01/food-images/IMG_9364.jpeg,2025-12-14 09:23:12.575230598,ice cream,36.05%,OK
+../data/raw/p01/food-images/IMG_9366.jpeg,2025-12-14 09:23:07.817514896,ice cream,34.68%,OK
+../data/raw/p01/food-images/IMG_9367.jpeg,2025-12-14 09:23:07.446817398,french fries,43.62%,OK
+../data/raw/p01/food-images/IMG_9368.jpeg,2025-12-14 09:23:13.038954735,ceviche,8.75%,OK
+../data/raw/p01/food-images/IMG_9371.jpeg,2025-12-14 09:23:07.503289461,foie gras,10.46%,OK
+../data/raw/p01/food-images/IMG_9372.jpeg,2025-12-14 09:23:12.631012440,spring rolls,11.33%,OK
+../data/raw/p01/food-images/IMG_9373.jpeg,2025-12-14 09:23:12.105853319,panna cotta,17.49%,OK
+../data/raw/p01/food-images/IMG_9374.jpeg,2025-12-14 09:23:11.569039106,cheese plate,6.89%,OK
+../data/raw/p01/food-images/IMG_9375.jpeg,2025-12-14 09:23:10.200580120,strawberry shortcake,38.30%,OK
+../data/raw/p01/food-images/IMG_9376.jpeg,2025-12-14 09:23:09.885644197,paella,33.90%,OK
+../data/raw/p01/food-images/IMG_9379.jpeg,2025-12-14 09:23:10.465174675,spaghetti carbonara,15.20%,OK
+../data/raw/p01/food-images/IMG_9380.jpeg,2025-12-14 09:23:10.593590260,cheese plate,23.51%,OK
+../data/raw/p01/food-images/IMG_9381.jpeg,2025-12-14 09:23:11.206288815,lobster bisque,72.17%,OK
+../data/raw/p01/food-images/IMG_9382.jpeg,2025-12-14 09:23:09.169283867,ice cream,5.88%,OK
+../data/raw/p01/food-images/IMG_9383.jpeg,2025-12-14 09:23:09.479523182,panna cotta,13.00%,OK
+../data/raw/p01/food-images/IMG_9385.jpeg,2025-12-14 09:23:08.081483603,escargots,24.59%,OK
+../data/raw/p01/food-images/IMG_9386.jpeg,2025-12-14 09:23:11.789434433,beef carpaccio,45.10%,OK
+../data/raw/p01/food-images/IMG_9387.jpeg,2025-12-14 09:23:13.055122852,risotto,14.66%,OK
+../data/raw/p01/food-images/IMG_9388.jpeg,2025-12-14 09:23:07.409587145,pulled pork sandwich,13.75%,OK
+../data/raw/p01/food-images/IMG_9389.jpeg,2025-12-14 09:23:07.768373966,dumplings,26.19%,OK
+../data/raw/p01/food-images/IMG_9390.jpeg,2025-12-14 09:23:11.738881111,red velvet cake,10.58%,OK
+../data/raw/p01/food-images/IMG_9394.jpeg,2025-12-14 09:23:09.275846004,macarons,15.57%,OK
+../data/raw/p01/food-images/IMG_9395.jpeg,2025-12-14 09:23:09.403101444,chocolate mousse,14.00%,OK
+../data/raw/p01/food-images/IMG_9396.jpeg,2025-12-14 09:23:10.489176989,red velvet cake,19.66%,OK
+../data/raw/p01/food-images/IMG_9397.jpeg,2025-12-14 09:23:11.275665998,risotto,14.71%,OK
+../data/raw/p01/food-images/IMG_9398.jpeg,2025-12-14 09:23:08.766684055,cheese plate,18.78%,OK
+../data/raw/p01/food-images/IMG_9399.jpeg,2025-12-14 09:23:09.846445084,falafel,11.48%,OK
+../data/raw/p01/food-images/IMG_9400.jpeg,2025-12-14 09:23:10.505171061,panna cotta,14.00%,OK
+../data/raw/p01/food-images/IMG_9401.jpeg,2025-12-14 09:23:11.244286537,panna cotta,20.51%,OK
+../data/raw/p01/food-images/IMG_9403.jpeg,2025-12-14 09:23:09.414653063,chocolate mousse,20.00%,OK
+../data/raw/p01/food-images/IMG_9404.jpeg,2025-12-14 09:23:07.170929670,spaghetti carbonara,58.63%,OK
+../data/raw/p01/food-images/IMG_9405.jpeg,2025-12-14 09:23:08.047386885,ice cream,26.02%,OK
+../data/raw/p01/food-images/IMG_9406.jpeg,2025-12-14 09:23:11.756260395,cheese plate,34.51%,OK
+../data/raw/p01/food-images/IMG_9407.jpeg,2025-12-14 09:23:13.087762594,french fries,12.94%,OK
+../data/raw/p01/food-images/IMG_9408.jpeg,2025-12-14 09:23:07.539288759,cheese plate,17.85%,OK
+../data/raw/p01/food-images/IMG_9409.jpeg,2025-12-14 09:23:07.697387457,french fries,23.69%,OK
+../data/raw/p01/food-images/IMG_9410.jpeg,2025-12-14 09:23:11.826928616,french fries,18.93%,OK
+../data/raw/p01/food-images/IMG_9411.jpeg,2025-12-14 09:23:12.995084047,churros,35.33%,OK
+../data/raw/p01/food-images/IMG_9412.jpeg,2025-12-14 09:23:07.108654022,chocolate mousse,12.52%,OK
+../data/raw/p01/food-images/IMG_9413.jpeg,2025-12-14 09:23:08.148981094,hot dog,6.86%,OK
+../data/raw/p01/food-images/IMG_9414.jpeg,2025-12-14 09:23:09.129287481,panna cotta,31.48%,OK
+../data/raw/p01/food-images/IMG_9415.jpeg,2025-12-14 09:23:09.537533522,paella,35.69%,OK
+../data/raw/p01/food-images/IMG_9462.jpeg,2025-12-14 09:23:10.074401140,french fries,15.98%,OK

@@ -1,4 +1,3 @@
-# Test_csv
 ## 01. Acquisition et Agrégation des Données
 Le notebook `01_data_understanding.ipynb` est dédié à la compréhension de la structure des données brutes et à leur transformation vers un format utilisable pour la modélisation de Machine Learning.
 
